@@ -1,4 +1,5 @@
-﻿﻿/*
+﻿﻿/* hejhopp här lägger jag in saker som inte hör till så att morre kan se
+ *
  * MarkdownSharp
  * -------------
  * a C# Markdown processor
